@@ -1,7 +1,7 @@
 Sandbox
 =======
 
-A place where I can play with Git, GitHub, and coding projects.
+A place where I can git crazy with Git, GitHub, and coding projects.
 
 And where *I* can wreak havoc!
 
