@@ -3,9 +3,9 @@ Line  2
 Line  3
 Line  4
 Line  5
-Line  6
-Line  7
-Line  8
+Line  6 - Changed Line 6
+Line  7 - Changed Line 7
+Line  8 - Changed Line 8
 Line  9
 Line 10
 Line 11
@@ -15,9 +15,9 @@ Line 14
 Line 15
 Line 16
 Line 17
+Line 17a - Added Line 17a
 Line 18
-Line 19
-Line 20
+Line 20a - Replaced Lines 19-20 with Line 20a
 Line 21
 Line 22
 Line 23
@@ -25,5 +25,5 @@ Line 24
 Line 25
 Line 26
 Line 27
-Line 28
+Line 28 - Change Line 28
 Line 29
